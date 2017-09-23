@@ -15,6 +15,13 @@ html {
     line-height: 1.4;
 }
 
+.holder-text{
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: left;
+    font-family: 'Roboto',sans-serif;
+    font-size: 15px;
+}
 
 /*
  * Remove text-shadow in selection highlight:
@@ -306,6 +313,8 @@ textarea {
 
 .img-holder{
     margin-bottom: 40px;
+    border: 1px solid #ccc;
+    
 }
 
 .feature-icon {
