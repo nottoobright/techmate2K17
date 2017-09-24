@@ -127,16 +127,6 @@ textarea {
     font-weight: 700;
 }
 
-@media(max-width:768px) {
-    .csi {
-        font-size: 1em;
-    }
-    .techmate h1 {
-        font-size: 2em;
-    }
-}
-    
-
 #wrapper {
     position: relative;
     width: 100%;
@@ -490,8 +480,7 @@ textarea {
     color: #999;
 }
 .fest-poster {
-    width: 600px;
-    height: 400px;
+  
     background-color: grey;
     margin-bottom: 3rem;
     margin-left: auto;
