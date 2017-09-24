@@ -127,6 +127,16 @@ textarea {
     font-weight: 700;
 }
 
+@media(max-width:768px) {
+    .csi {
+        font-size: 1em;
+    }
+    .techmate h1 {
+        font-size: 2em;
+    }
+}
+    
+
 #wrapper {
     position: relative;
     width: 100%;
